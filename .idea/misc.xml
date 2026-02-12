@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1db49d42-567a-456b-929d-60f5e5c49517" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dsa-module/pom.xml" />
+        <option value="$PROJECT_DIR$/dsa-module/spring-internals-module/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-internal-module/pom.xml" />
+        <option value="$PROJECT_DIR$/java-module/pom.xml" />
+        <option value="$PROJECT_DIR$/system-design-module/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dsa-module/spring-internals-module/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
